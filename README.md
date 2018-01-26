@@ -1,6 +1,6 @@
 # Django API Boilerplate
 
-Boilerplate for Django backend with REST API. Uses [http://www.django-rest-framework.org/](Django REST Framework) and [Django REST Knox](http://james1345.github.io/django-rest-knox/) to power the API and authentication.
+Boilerplate for Django backend with REST API. Uses [Django REST Framework](http://www.django-rest-framework.org/) and [Django REST Knox](http://james1345.github.io/django-rest-knox/) to power the API and authentication.
 
 Comes with:
 
