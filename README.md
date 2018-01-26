@@ -1,6 +1,6 @@
 # Django API Boilerplate
 
-Boilerplate for Django backend with REST API. Uses [http://www.django-rest-framework.org/](Django REST Framework) and [http://james1345.github.io/django-rest-knox/](Django REST Knox) to power the API and authentication.
+Boilerplate for Django backend with REST API. Uses [http://www.django-rest-framework.org/](Django REST Framework) and [Django REST Knox](http://james1345.github.io/django-rest-knox/) to power the API and authentication.
 
 Comes with:
 
@@ -18,7 +18,7 @@ $ python manage.py migrate
 $ python manage.py runserver
 ```
 
-To test use a Web browser to navigate to [http://localhost:8000/app_boilerplate/endpoint_boilerplate/]. You should the Django REST Framework browsable API page displaying the following JSON response:
+To test use a Web browser to navigate to [http://localhost:8000/app_boilerplate/endpoint_boilerplate/](http://localhost:8000/app_boilerplate/endpoint_boilerplate/). You should the Django REST Framework browsable API page displaying the following JSON response:
 ```
 {
     "example": true
@@ -31,6 +31,6 @@ To create a super user do:
 $ python manage.py createsuperuser
 ```
 
-Than you can navigate to [http://localhost:8000/admin/] to access Django admin site.
+Than you can navigate to [http://localhost:8000/admin/](http://localhost:8000/admin/) to access Django admin site.
 
 You want to replace "django_api_boilerplate" with your project name and "app_boilerplate" with an app name.
