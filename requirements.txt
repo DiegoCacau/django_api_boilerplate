@@ -1,11 +1,6 @@
-asn1crypto==0.24.0
-cffi==1.11.4
-cryptography==2.1.4
-Django==2.0.1
-django-rest-knox==3.1.0
-djangorestframework==3.7.7
-idna==2.6
-pycparser==2.18
-pyOpenSSL==17.5.0
-pytz==2017.3
-six==1.11.0
+Django
+django-rest-knox
+djangorestframework
+python-decouple
+raven
+django-cors-headers

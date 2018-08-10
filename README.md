@@ -5,12 +5,12 @@ Boilerplate for Django backend with REST API. Uses [http://www.django-rest-frame
 Comes with:
 
  - Requirements file listing all dependencies.
- - Django REST Framework and Django REST Knox pré-configured.
+ - Django REST Framework and Django REST Knox pre-configured.
  - A config app to store and retrieve key/value parameters.
  - Extra endpoint `POST /token/` to validate a token.
- - An example boilerplate endpoint just to ilustrate.
+ - An example endpoint just to ilustrate.
 
-To use just fork it and do
+To use just fork and do
 
 ```
 $ pip install -r requirements.txt
@@ -33,4 +33,4 @@ $ python manage.py createsuperuser
 
 Than you can navigate to [http://localhost:8000/admin/] to access Django admin site.
 
-You want to replace "django_api_boilerplate" with your project name and "app_boilerplate" with an app name.
+You want to replace "myproject" with your project name and "myapp" with an app name.
