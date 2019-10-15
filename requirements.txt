@@ -2,5 +2,5 @@ Django
 django-rest-knox
 djangorestframework
 python-decouple
-raven
+sentry_sdk
 django-cors-headers
